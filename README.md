@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">[Your tagline — e.g. "A passionate Full Stack Developer from India"]</h3>
+<h1 align="center">Hi 👋, I'm Ganesh Poojary</h1>
+<h3 align="center"> Love to work on  Projects, new Technologies and  eager to learn </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
@@ -10,9 +10,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **[project name]**
-- 🌱 I'm currently learning **[technology]**
-- 👯 I'm looking to collaborate on **[type of project]**
+- 🔭 I'm currently working on **Catch-Up **~a social media website
+- 🌱 I'm currently learning **Java**
+- 👯 I'm looking to collaborate on **interesting projects in ai and ml**
 - 💬 Ask me about **[your expertise]**
 - ⚡ Fun fact: **[something fun]**
 
