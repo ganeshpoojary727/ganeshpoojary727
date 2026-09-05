@@ -101,6 +101,23 @@ Catch-Up combines social interaction with local event discovery, helping users c
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Catch--Up-success?style=for-the-badge"/>
   </a>
 </p>
+### 🔎 Lost & Found Portal
+
+A web-based **Lost & Found platform** designed to help people report and recover lost belongings, pets, and other valuable items.
+
+Users can create detailed **lost or found listings** with relevant information, allowing other users to search for matching items and connect with the person who reported them. The platform aims to make the process of recovering lost belongings **faster, easier, and community-driven**.
+
+**Key Features:**
+
+- 🔍 Create and browse lost/found listings
+- 📍 Share relevant details about where an item was lost or found
+- 🐕 Support for lost pets and personal belongings
+- 👤 Connect people who find items with their owners
+- 📋 Detailed item descriptions for easier identification
+- 🤝 Community-driven recovery system
+
+**Repository:**  
+https://github.com/ganeshpoojary727/Lost-Found-Portal-backend
 
 ## 🧠 Areas of Interest
 
