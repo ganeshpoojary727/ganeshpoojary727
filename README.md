@@ -1,52 +1,121 @@
 <h1 align="center">Hi 👋, I'm Ganesh Poojary</h1>
-<h3 align="center"> Love to work on  Projects, new Technologies and  eager to learn </h3>
+
+<h3 align="center">
+Computer Science Student | Java & Python Developer | AI/ML Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"></a>
-  <a href="https://twitter.com/[your-handle]"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter"></a>
+  <a href="https://www.linkedin.com/in/ganesh-poojary-43091a285">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ganesh2006poojary@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Ganesh_2006_poojary/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.chess.com/member/GaneshPoojary">
+    <img src="https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=lichess&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I'm currently working on **Catch-Up **~a social media website
-- 🌱 I'm currently learning **Java**
-- 👯 I'm looking to collaborate on **interesting projects in ai and ml**
-- 💬 Ask me about **[your expertise]**
-- ⚡ Fun fact: **[something fun]**
+## 👨‍💻 About Me
+
+I'm a Computer Science student passionate about building **real-world software projects** and exploring **AI-driven technologies**.
+
+I enjoy working across software development and AI/ML, especially projects that combine **problem solving, creativity, and practical real-life applications**.
+
+- 🔭 Currently working on **DeepFake Video Call Detector**
+- 🌱 Currently learning and strengthening **Java, DSA & Backend Development**
+- 🧠 Exploring **AI/ML, Generative AI and AI-powered applications**
+- ☕ Interested in **Java, Spring Boot, Hibernate and Microservices**
+- 🤖 Interested in building practical AI tools and intelligent systems
+- 💡 I enjoy solving problems and turning ideas into working projects
+- ♟️ I enjoy playing chess and solving challenging problems
+- 🤝 Open to collaborating on interesting **AI/ML and software development projects**
 
 ---
 
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<!-- Add/remove badges: https://github.com/Ileriayo/markdown-badges has hundreds -->
+## 🚀 Current Project
+
+### 🛡️ DeepFake Video Call Detector
+
+An AI-powered **multimodal deepfake detection system** designed to analyze manipulated images, videos and audio.
+
+The project combines multiple deep-learning approaches to improve detection across different types of synthetic media.
+
+**Key technologies and concepts:**
+
+- 🎤 **AASIST** — Audio Anti-Spoofing
+- 🎬 **EfficientNet-B4** — Visual deepfake detection
+- 🧠 **Temporal Transformer** — Video temporal analysis
+- 🔀 **Multimodal Late Fusion** — Audio + Video analysis
+- 🐍 **Python & PyTorch**
+- ⚡ **FastAPI**
+- 🌐 **Streamlit**
+- 🐳 **Docker**
+- 🧪 Automated testing
+
+**Datasets explored:**
+
+- ASVspoof 2019
+- ASVspoof 2021
+- FaceForensics++
+- Celeb-DF
+
+🔗 **Repository:**  
+https://github.com/ganeshpoojary727/DeepFake-VideoCall-Detector
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical" alt="Top Langs" height="165"/>
-</p>
+## 📱 Other Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" alt="GitHub Streak"/>
-</p>
+### 🚨 SafeSignal
+
+An Android mobile application designed to provide **emergency assistance and safety support**.
+
+The project focuses on using technology to provide practical help during emergency situations.
 
 ---
 
-### 🏆 Featured Projects
-- **[Project Name](https://github.com/your-username/repo)** — One-line description of what it does and what you used.
-- **[Project Name](https://github.com/your-username/repo)** — One-line description of what it does and what you used.
-- **[Project Name](https://github.com/your-username/repo)** — One-line description of what it does and what you used.
+### 🌐 Catch-Up
+
+A social media web application focused on **connecting people with each other and discovering local events happening around them**.
+
+The project combines social interaction with location-based discovery to help users stay connected with their surroundings.
+
+**Technologies explored:**
+
+- React
+- Next.js
+- Java
+- Python
+- HTML
+- CSS
+- MySQL
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&style=flat" alt="Profile views"/>
-</p>
+## 🧠 Areas of Interest
+
+```text
+Java Development
+        │
+        ├── Spring Boot
+        ├── Hibernate
+        └── Microservices
+
+AI / Machine Learning
+        │
+        ├── Deep Learning
+        ├── Computer Vision
+        ├── Generative AI
+        └── AI-powered Applications
+
+Problem Solving
+        │
+        ├── Data Structures & Algorithms
+        ├── LeetCode
+        └── Competitive Problem Solving
