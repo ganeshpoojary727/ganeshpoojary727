@@ -82,21 +82,25 @@ The project focuses on using technology to provide practical help during emergen
 
 ### 🌐 Catch-Up
 
-A social media web application focused on **connecting people with each other and discovering local events happening around them**.
+A social media web application focused on **connecting people and discovering local events happening around them**.
 
-The project combines social interaction with location-based discovery to help users stay connected with their surroundings.
+Catch-Up combines social interaction with local event discovery, helping users connect with people and stay aware of what's happening in their community.
 
-**Technologies explored:**
+**Tech Stack:**
 
-- React
-- Next.js
-- Java
-- Python
-- HTML
-- CSS
-- MySQL
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
----
+<p>
+  <a href="https://catch-5j0cubj51-ganesh2006poojary-6593s-projects.vercel.app/register">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Catch--Up-success?style=for-the-badge"/>
+  </a>
+</p>
 
 ## 🧠 Areas of Interest
 
