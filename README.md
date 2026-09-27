@@ -121,6 +121,16 @@ Docker · Git · MySQL
 <div align="center">
 
 <picture>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ganeshpoojary727&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&ring_color=58a6ff&count_private=true" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ganeshpoojary727&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6" />
+</picture>
+
+<br/><br/>
+
+<picture>
   <img height="180" src="https://streak-stats.demolab.com?user=ganeshpoojary727&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" />
 </picture>
 
