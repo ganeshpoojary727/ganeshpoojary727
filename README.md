@@ -56,7 +56,7 @@ A full-stack social media application connecting people through local events and
 
 `Java` `React` `Next.js` `Python` `MySQL`
 
-[![Live](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://catch-5j0cubj51-ganesh2006poojary-6593s-projects.vercel.app/register)
+📎 **Demo:** `https://share.google/ha3e3c8MkU9hVXjBd`
 
 ---
 
@@ -119,35 +119,13 @@ Docker · Git · MySQL
 ## GitHub Analytics
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganeshpoojary727&theme=github_dark" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganeshpoojary727&theme=github_dark" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshpoojary727&theme=github_dark" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshpoojary727&theme=github_dark" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ganeshpoojary727&theme=github_dark" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ganeshpoojary727&theme=github_dark" />
-</picture>
-</div>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=ganeshpoojary727&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" height="180"/>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=ganeshpoojary727&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" height="160"/>
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshpoojary727&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=161b22&hide_border=true" width="95%"/>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganeshpoojary727&theme=github_dark" />
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganeshpoojary727&theme=github_dark" />
-</picture>
 </div>
 
 <br/>
