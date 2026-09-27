@@ -1,142 +1,127 @@
-<h1 align="center">Hi 👋, I'm Ganesh Poojary</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Student | Java & Python Developer | AI/ML Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:021B79&height=200&section=header&text=Ganesh%20Poojary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20%26%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ganesh-poojary-43091a285">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ganesh2006poojary@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Ganesh_2006_poojary/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.chess.com/member/GaneshPoojary">
-    <img src="https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=lichess&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/ganesh-poojary-43091a285"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ganesh2006poojary@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Ganesh_2006_poojary/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.chess.com/member/GaneshPoojary"><img src="https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chessdotcom&logoColor=white"/></a>
 
----
+</div>
 
-## 👨‍💻 About Me
+<br/>
 
-I'm a Computer Science student passionate about building **real-world software projects** and exploring **AI-driven technologies**.
+## About Me
 
-I enjoy working across software development and AI/ML, especially projects that combine **problem solving, creativity, and practical real-life applications**.
+I'm a Computer Science student who builds full-stack products and AI-driven systems end to end — from architecture to deployment. I like taking an idea, shipping a working version of it, and learning whatever the build requires along the way.
 
-- 🔭 Currently working on **DeepFake Video Call Detector**
-- 🌱 Currently learning and strengthening **Java, DSA & Backend Development**
-- 🧠 Exploring **AI/ML, Generative AI and AI-powered applications**
-- ☕ Interested in **Java, Spring Boot, Hibernate and Microservices**
-- 🤖 Interested in building practical AI tools and intelligent systems
-- 💡 I enjoy solving problems and turning ideas into working projects
-- ♟️ I enjoy playing chess and solving challenging problems
-- 🤝 Open to collaborating on interesting **AI/ML and software development projects**
+- 🔭 **Currently building:** a multimodal deepfake detector for video calls (audio + video + temporal analysis)
+- 🌱 **Currently sharpening:** Java, Data Structures & Algorithms, backend system design
+- 🧠 **Exploring:** Generative AI, computer vision, and applied AI/ML systems
+- ☕ **Comfortable with:** Java, Spring Boot, Hibernate, REST APIs, Microservices
+- ♟️ Chess player and problem solver in my spare time
 
----
+<br/>
 
-## 🚀 Current Project
+## Tech Stack
 
-### 🛡️ DeepFake Video Call Detector
+<div align="center">
 
-An AI-powered **multimodal deepfake detection system** designed to analyze manipulated images, videos and audio.
+<img src="https://skillicons.dev/icons?i=java,python,react,nextjs,spring,mysql,pytorch,fastapi,docker,git,github,androidstudio,idea,vscode&theme=dark" />
 
-The project combines multiple deep-learning approaches to improve detection across different types of synthetic media.
+</div>
 
-**Key technologies and concepts:**
+<br/>
 
-- 🎤 **AASIST** — Audio Anti-Spoofing
-- 🎬 **EfficientNet-B4** — Visual deepfake detection
-- 🧠 **Temporal Transformer** — Video temporal analysis
-- 🔀 **Multimodal Late Fusion** — Audio + Video analysis
-- 🐍 **Python & PyTorch**
-- ⚡ **FastAPI**
-- 🌐 **Streamlit**
-- 🐳 **Docker**
-- 🧪 Automated testing
+## Featured Projects
 
-**Datasets explored:**
+<table>
+<tr>
+<td width="60%">
 
-- ASVspoof 2019
-- ASVspoof 2021
-- FaceForensics++
-- Celeb-DF
+**🛡️ [DeepFake Video Call Detector](https://github.com/ganeshpoojary727/DeepFake-VideoCall-Detector)**
+<br/>Multimodal deepfake detection system that analyzes video calls for manipulated audio and video in real time, combining spoof-detection and vision models with late fusion for a combined verdict.
 
-🔗 **Repository:**  
-https://github.com/ganeshpoojary727/DeepFake-VideoCall-Detector
+</td>
+<td width="40%">
 
----
+`Python` `PyTorch` `FastAPI`
+`AASIST` `EfficientNet-B4`
+`Temporal Transformer` `Docker`
 
-## 📱 Other Projects
+</td>
+</tr>
 
-### 🚨 SafeSignal
+<tr>
+<td>
 
-An Android mobile application designed to provide **emergency assistance and safety support**.
+**🌐 [Catch-Up](https://catch-5j0cubj51-ganesh2006poojary-6593s-projects.vercel.app/register)** — *Live*
+<br/>A full-stack, community-driven event discovery platform where people can find, create, and RSVP to local events, with map-based location and profiles. Self-designed end to end and deployed live.
 
-The project focuses on using technology to provide practical help during emergency situations.
+</td>
+<td>
 
----
+`React` `Vite` `Tailwind`
+`Java 21` `Spring Boot`
+`Spring Security · JWT` `MySQL`
 
-### 🌐 Catch-Up
+</td>
+</tr>
 
-A social media web application focused on **connecting people and discovering local events happening around them**.
+<tr>
+<td>
 
-Catch-Up combines social interaction with local event discovery, helping users connect with people and stay aware of what's happening in their community.
+**🚨 SafeSignal**
+<br/>An Android emergency-response app: a single trigger alerts nearby emergency services and nearby app users when someone is in danger, built for anyone who needs it.
 
-**Tech Stack:**
+</td>
+<td>
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+`Java` `Android`
+`OOP Architecture`
 
-<p>
-  <a href="https://catch-5j0cubj51-ganesh2006poojary-6593s-projects.vercel.app/register">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Catch--Up-success?style=for-the-badge"/>
-  </a>
-</p>
-### 🔎 Lost & Found Portal
+</td>
+</tr>
 
-A web-based **Lost & Found platform** designed to help people report and recover lost belongings, pets, and other valuable items.
+<tr>
+<td>
 
-Users can create detailed **lost or found listings** with relevant information, allowing other users to search for matching items and connect with the person who reported them. The platform aims to make the process of recovering lost belongings **faster, easier, and community-driven**.
+**🔎 [Lost & Found Portal](https://github.com/ganeshpoojary727/Lost-Found-Portal-backend)**
+<br/>A community-driven platform for reporting and recovering lost belongings and pets, with detailed listings so finders and owners can connect quickly.
 
-**Key Features:**
+</td>
+<td>
 
-- 🔍 Create and browse lost/found listings
-- 📍 Share relevant details about where an item was lost or found
-- 🐕 Support for lost pets and personal belongings
-- 👤 Connect people who find items with their owners
-- 📋 Detailed item descriptions for easier identification
-- 🤝 Community-driven recovery system
+`Full-Stack` `REST API`
 
-**Repository:**  
-https://github.com/ganeshpoojary727/Lost-Found-Portal-backend
+</td>
+</tr>
+</table>
 
-## 🧠 Areas of Interest
+<p align="right"><a href="https://github.com/ganeshpoojary727?tab=repositories">More repositories →</a></p>
 
-```text
-Java Development
-        │
-        ├── Spring Boot
-        ├── Hibernate
-        └── Microservices
+<br/>
 
-AI / Machine Learning
-        │
-        ├── Deep Learning
-        ├── Computer Vision
-        ├── Generative AI
-        └── AI-powered Applications
+## GitHub Stats
 
-Problem Solving
-        │
-        ├── Data Structures & Algorithms
-        ├── LeetCode
-        └── Competitive Problem Solving
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ganeshpoojary727&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshpoojary727&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=ganeshpoojary727&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Let's connect
+
+<a href="https://www.linkedin.com/in/ganesh-poojary-43091a285"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ganesh2006poojary@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:021B79,100:0575E6&height=100&section=footer" width="100%"/>
+
+</div>
