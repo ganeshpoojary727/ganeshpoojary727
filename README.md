@@ -121,12 +121,6 @@ Docker · Git · MySQL
 <div align="center">
 
 <picture>
-  <img src="https://github-profile-trophy.vercel.app/?username=ganeshpoojary727&theme=darkhub&no-frame=true&no-bg=true&column=7" width="90%" />
-</picture>
-
-<br/><br/>
-
-<picture>
   <img height="180" src="https://streak-stats.demolab.com?user=ganeshpoojary727&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" />
 </picture>
 
