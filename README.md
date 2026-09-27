@@ -120,11 +120,11 @@ Docker · Git · MySQL
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ganeshpoojary727&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" height="180"/>
+<a href="#"><img src="https://streak-stats.demolab.com?user=ganeshpoojary727&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" height="180"/></a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshpoojary727&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=161b22&hide_border=true" width="95%"/>
+<a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshpoojary727&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=161b22&hide_border=true" width="95%"/></a>
 
 </div>
 
