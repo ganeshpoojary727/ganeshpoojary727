@@ -119,15 +119,35 @@ Docker · Git · MySQL
 ## GitHub Analytics
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ganeshpoojary727&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&ring_color=58a6ff&count_private=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganeshpoojary727&theme=github_dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganeshpoojary727&theme=github_dark" />
+</picture>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshpoojary727&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshpoojary727&theme=github_dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshpoojary727&theme=github_dark" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ganeshpoojary727&theme=github_dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ganeshpoojary727&theme=github_dark" />
+</picture>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ganeshpoojary727&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" height="160"/>
+<img src="https://streak-stats.demolab.com?user=ganeshpoojary727&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" height="160"/>
+</div>
+
+<br/>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganeshpoojary727&theme=github_dark" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganeshpoojary727&theme=github_dark" />
+</picture>
 </div>
 
 <br/>
